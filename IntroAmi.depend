@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1453114294 source:d:\cb\introami\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"napis.h"
+	"flash.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 d:\cb\introami\allegrostart.h
+
+1452636106 source:d:\cb\introami\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1452636248 source:d:\cb\introami\napis.cpp
+	<iostream>
+	<allegro5/allegro_ttf.h>
+	"napis.h"
+
+1452616854 d:\cb\introami\napis.h
+	<allegro5/allegro_ttf.h>
+
+1452614232 source:f:\cb\introami\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 f:\cb\introami\allegrostart.h
+
+1452622182 source:f:\cb\introami\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"napis.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1452616854 f:\cb\introami\napis.h
+	<allegro5/allegro_ttf.h>
+
+1452616854 source:f:\cb\introami\napis.cpp
+	<iostream>
+	<allegro5/allegro_ttf.h>
+	"napis.h"
+
+1452641272 source:d:\cb\introami\flash.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"flash.h"
+
+1452641258 d:\cb\introami\flash.h
+
+1452641272 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\flash.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"flash.h"
+
+1452641258 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\flash.h
+
+1453114294 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"napis.h"
+	"flash.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\allegrostart.h
+
+1452616854 l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\napis.h
+	<allegro5/allegro_ttf.h>
+
+1452636248 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\napis.cpp
+	<iostream>
+	<allegro5/allegro_ttf.h>
+	"napis.h"
+
+1452636106 source:l:\z pulpitu\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1452641272 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\flash.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"flash.h"
+
+1452641258 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\flash.h
+
+1453114294 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"napis.h"
+	"flash.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
+1446964368 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\allegrostart.h
+
+1452616854 f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\napis.h
+	<allegro5/allegro_ttf.h>
+
+1452636248 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\napis.cpp
+	<iostream>
+	<allegro5/allegro_ttf.h>
+	"napis.h"
+
+1452636106 source:f:\kody zrodlowe\z pendrivea - kody zrodlowe\cb\introami\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1467391206 source:i:\cb\introami\allegrostart.cpp
+	<stdio.h>
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro.h"
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"allegroStart.h"
+
+1446964368 i:\cb\introami\allegrostart.h
+
+1467391272 source:i:\cb\introami\flash.cpp
+	<iostream>
+	<allegro5/allegro_primitives.h>
+	"flash.h"
+
+1452641258 i:\cb\introami\flash.h
+
+1467391191 source:i:\cb\introami\napis.cpp
+	<iostream>
+	<allegro5/allegro_ttf.h>
+	"napis.h"
+
+1452616854 i:\cb\introami\napis.h
+	<allegro5/allegro_ttf.h>
+
+1467391387 source:i:\cb\introami\main.cpp
+	<iostream>
+	<cstdlib>
+	<math.h>
+	"allegro5/allegro.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_image.h"
+	"allegroStart.h"
+	"napis.h"
+	"flash.h"
+	<stdio.h>
+	<math.h>
+	<string>
+
